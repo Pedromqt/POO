@@ -1,0 +1,11 @@
+Ski;Ski é feito na neve?;Verdadeiro,Falso;Verdadeiro
+Futebol;Qual a camisola do Ronaldo?;Camisola 9,Camisola 7,Camisola 10,Camisola 22;Camisola 7
+Desporto;Ténis é um desporto?;Verdadeiro,Falso;Verdadeiro
+Natacao;Michael Phelps é nadador?;Falso,Verdadeiro;Verdadeiro
+Ciencias;Quantos litros de sangue tem o corpo humano de 70kg?;8,4,2,5:5.1,4.9,5.5,5.9;5:5.5
+Artes;Mona Lisa foi arte de quem?;Miguel António,Pedro Trindade,João Maria,Cristiano Ronaldo,Micael Ferreira,Leonardo da Vinci,Messi,José Cascata;Leonardo da Vinci
+Natacao;Natação é um desporto aquático?;Falso,Verdadeiro;Verdadeiro
+Ski;Suiça é o sítio onde se faz mais Ski?;Verdadeiro,Falso;Verdadeiro
+Ski;Portugal é um bom país para ski?;Verdadeiro,Falso;Falso
+Desporto;Desporto é benéfico para a saúde?;Verdadeiro,Falso;Verdadeiro
+Artes;O Juízo Final foi arte de quem?;Miguel António,Pedro Trindade,João Maria,Cristiano Ronaldo,Antónia,Michelangelo;Michelangelo
